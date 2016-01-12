@@ -1,0 +1,2 @@
+#machine readable output (fork 3, i 3)
+java -jar ./target/benchmarks.jar -wi 3 -i 3 -f 3 -rff sample
